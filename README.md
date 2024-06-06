@@ -2,5 +2,5 @@
 
 ## Etapas do projeto
 
-1. criar a rota do aplicativo
-2. Criar o tamplate HTML
+1. Criar a rota do aplicativo
+2. Criar o template HTML
